@@ -1,8 +1,7 @@
 # forkify-app project 
 #HTML5 <br/> #Css3 <br/> #Sass <br/> #JavaScript <br/> #Npm <br/> #Ajax <br/> #API 
 
-This application is all about searching for recipes and displaying them on the user interface. 
-To start work with this app you need to type in the search bar for any product (for example pasta) and click the search button or enter. 
-Then in the left column, you will get ten recipes and below recipes, you will see a button to go forward to the next ten recipes and so on. You can bookmark recipes and they will appear on the bookmark panel (top right corner) or you can upload your own recipe. 
-You can increase or decrease recipe ingredients and all these are saved in local storage so they will not be gone after you refresh the page. 
-This project was created through learning Jonas Schmedtmann's course "The Complete JavaScript Course 2022: From Zero to Expert!" on the Udemy platform. To see it live click this link: https://forkify-alexzemz.netlify.app/.
+<p>The "Forkify" application is designed to help users find and discover new recipes to cook. The primary feature of the app is the search bar, where users can type in the name of a specific ingredient (such as "pasta") and then click the search button or press enter to see a list of relevant recipes.</p>
+<p>The results of the search are displayed in the left column of the user interface, where up to ten recipes are shown at a time. Users can navigate through the results by clicking the "next" button to see the next ten recipes, and so on. Additionally, the app allows users to "bookmark" their favorite recipes, which will then be saved and appear in the top right corner of the user interface, in the "bookmark panel."</p>
+<p>For those who want to share their own recipe, the app also has a feature that allows users to upload their own recipe, and customize the ingredient quantities. All the changes made by the user will be saved in the local storage, so they will not be gone after you refresh the page.</p>
+<p>This project was created by following the "The Complete JavaScript Course 2022: From Zero to Expert!" on the Udemy platform, taught by Jonas Schmedtmann.  The live version of the application can be accessed by visiting this link: https://forkify-alexzemz.netlify.app/</p>
